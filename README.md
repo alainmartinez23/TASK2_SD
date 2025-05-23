@@ -1,4 +1,4 @@
-## README
+# README
 
 El enunciado es el pdf llamado: "Task 2.pdf"
 
@@ -8,7 +8,7 @@ han sido los resultados obtenidos.
 
 
 
-# AMAZON WEB SERVICES
+## AMAZON WEB SERVICES
 
 Se trabaja con Amazon Web Services para esta práctica. La tarea 1 y la 2 se pueden hacer con
 una cuenta normal de AWS. Para poder hacer la tarea 3, se necesita una cuenta de AWS Student,
